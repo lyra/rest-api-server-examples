@@ -1,2 +1,5 @@
-# rest-api-server-examples
-REST API server using Sprint Boot this server is used for mobile payment integration
+# Lyra Rest API Server Examples
+
+This aim of this repository is to present several examples of Lyra Rest API Server.
+
+That will be enriched very soon :)
