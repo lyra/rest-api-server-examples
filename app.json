@@ -1,0 +1,25 @@
+{
+  "name": "Sample of merchant server",
+  "description": "Sample of merchant server for mobile SDK using Spring Boot",
+  "repository": "https://github.com/lyra/merchant-server-java-sample",
+  "env": {
+    "SDK_SERVER_USERNAME": {
+      "value": ""
+    },
+    "SDK_SERVER_PASSWORD": {
+      "value": ""
+    },
+    "SDK_SERVER_NAME": {
+      "value": ""
+    },
+    "SDK_HASH_KEY": {
+      "value": ""
+    },
+    "SERVER_AUTH_USER": {
+      "value": ""
+    },
+    "SERVER_AUTH_TOKEN": {
+      "value": ""
+    }
+  }
+}

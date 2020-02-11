@@ -1,0 +1,11 @@
+#Merchant account parameters
+username=<REPLACE_ME>
+password=<REPLACE_ME>
+apiRestServerName=<REPLACE_ME>
+hashKey=<REPLACE_ME>
+
+#Connection parameters
+proxyHost=
+proxyPort=
+connectionTimeout=45000
+requestTimeout=45000
