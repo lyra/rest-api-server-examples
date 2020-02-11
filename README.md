@@ -1,4 +1,4 @@
-# merchant-server-java-sample
+# rest-api-server-examples
 
 This is a sample of a very basic merchant server that can be used from the Payment Mobile SDK.
 
@@ -20,13 +20,13 @@ Java 7 or higher is required.
 
 This sample application provides a REST API using [Spring Boot](https://spring.io/projects/spring-boot), so it is very easy to make it work as standalone server.  
 
-* Clone the repo: `git clone https://github.com/lyra/merchant-server-java-sample.git`.
+* Clone the repo: `git clone https://github.com/lyra/rest-api-server-examples.git`.
 * Set your account data in the _client-configuration.properties_ file as described in [configuration instructions](#configuration).
 
 #### Local deployment 
 
 * Run `mvn package`, to build jar executable
-* Run `java -jar target/merchant-server-java-sample-1.0.0.jar`
+* Run `java -jar target/merchant-server-java-sample-1.0.0-SNAPSHOT.jar`
 
 The application should start and have an output similar to this: 
 
