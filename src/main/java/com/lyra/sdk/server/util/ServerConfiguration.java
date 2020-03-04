@@ -15,7 +15,7 @@ import org.springframework.util.StringUtils;
 public class ServerConfiguration {
     private final static String ENV_USERNAME = "SDK_SERVER_USERNAME";
     private final static String ENV_PASSWORD = "SDK_SERVER_PASSWORD";
-    private final static String ENV_REST_API_SERVER_NAME = "SDK_REST_API_SERVER_NAME";
+    private final static String ENV_REST_API_SERVER_NAME = "SDK_SERVER_NAME";
     private final static String ENV_HASH_KEY = "SDK_HASH_KEY";
 
     private final Environment env;
