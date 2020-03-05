@@ -1,7 +1,7 @@
 {
   "name": "Sample of merchant server",
   "description": "Sample of merchant server for mobile SDK using Spring Boot",
-  "repository": "https://github.com/lyra/merchant-server-java-sample",
+  "repository": "https://github.com/lyra/rest-api-server-examples",
   "env": {
     "SDK_SERVER_USERNAME": {
       "value": ""
@@ -9,7 +9,7 @@
     "SDK_SERVER_PASSWORD": {
       "value": ""
     },
-    "SDK_SERVER_NAME": {
+    "SDK_REST_API_SERVER_NAME": {
       "value": ""
     },
     "SDK_HASH_KEY": {
