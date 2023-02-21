@@ -40,17 +40,6 @@ The application should start and have an output similar to this:
 
 By default the application run on 8080 port. See [configuration instructions](#configuration) if you want to change this value.
 
-#### Deploy using Heroku
-
-* Create an [Heroku account](https://signup.heroku.com/)
-* Deploy using the [Heroku CLI]()
-    * _heroku create_
-    * _git push heroku master_
-    * _heroku open_
-* Alternatively you can easily deploy using this button:
-
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
-
 ## How it works
 
 This sample of merchant server provides the entry points needed to perform the implementation of Payment SDK Server.
